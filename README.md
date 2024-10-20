@@ -18,7 +18,7 @@ To find account lockout policy go to group management editor and do the followin
  
   <p align="center">
     <img src="https://github.com/user-attachments/assets/3955b7a1-7f59-4cef-921a-79ab41a84de4"
- height="50%" width="50%" alt="getting to group policy"/> <br>
+ height="80%" width="80%" alt="getting to group policy"/> <br>
 Tip: to update group policy on the employee computer go to command prompt and type gpupdate /force and enter
 
 <p align="center">
@@ -28,4 +28,4 @@ Tip: to update group policy on the employee computer go to command prompt and ty
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/8ac22f9e-6c9f-4ca4-9052-9e3b9e3025e0" height="50%" width="50%" alt="pasword reset"/> <br> 
-Right click on the employee account and select rest password. 
+Right click on the employee account and select reset password. 
