@@ -16,8 +16,8 @@ Group Policy in Active Directory is a centralized management tool to control the
     <img src="https://github.com/user-attachments/assets/955a7c83-3646-4124-97ff-723aff9136cb" height="50%" width="50%" alt="getting to group policy"/>
 </p>
 <p>
-In domain controller go to start gpmc.msc to pull up the group policy management comsole. Then right click on group policy object and select edit.
-To find account lockout policy go to group management editor and do the following: computer configuration -> policies -> windows setting -> security settings -> account policies -> account lockout policy
+In domain controllers go to start gpmc.msc to pull up the group policy management console. Then right click on the group policy object and select edit.
+To find account lockout policy go to group management editor and do the following: computer configuration -> policies -> windows setting -> security settings -> account policies -> account lockout policy.
 </p>
  <p>
   <p align="center">
